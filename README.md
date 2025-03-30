@@ -11,7 +11,7 @@
 
 - Grupo oficial del Bot
 
-* <a href="En Creación "><img alt="WaBot" src="https://img.shields.io/badge/Senko-Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="En Creación "><img alt="WaBot" src="https://img.shields.io/badge/Sumi Sakurasawa MD-Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
@@ -19,7 +19,7 @@
 
 - Grupo soporte sobre el bot
 
-* <a href=" En Creación "><img alt="WaBot" src="https://img.shields.io/badge/Senko-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href=" En Creación "><img alt="WaBot" src="https://img.shields.io/badge/Sumi Sakurasawa MD-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
