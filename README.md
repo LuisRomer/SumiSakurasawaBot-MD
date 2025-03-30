@@ -1,6 +1,6 @@
 > 「✰」 Versión actual: ^0.0.5
 
-<h1 align="center">★ Senko San Ultra ★</p>
+<h1 align="center">★ Sumi Sakurasawa Ultra ★</p>
 <p>
         <img src = "https://qu.ax/lRebp.jpg">
     </p>
