@@ -28,4 +28,4 @@
 
 <a href="https://github.com/OfcKing"><img src="https://github.com/OfcKing.png" width="300" height="300" alt="Alex"/></a>
 
-`© Senko San - MD • Alex-X`
+`© Sumi Sakurasawa - MD • Fer-MD`
