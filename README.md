@@ -26,6 +26,6 @@
 <div align="center">
   <h1 align="center">Propietario de la Bot</h1>
 
-<a href="https://github.com/OfcferMD"><img src="https://github.com/OfcferMD.png" width="300" height="300" alt="Alex"/></a>
+<a href="https://github.com/OfcferMD"><img src="https://github.com/OfcferMD.png" width="300" height="300" alt="FerMD"/></a>
 
 `© Sumi Sakurasawa - MD • Fer-MD`
