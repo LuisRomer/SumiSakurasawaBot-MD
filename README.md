@@ -2,7 +2,7 @@
 
 <h1 align="center">★ Sumi Sakurasawa Ultra ★</p>
 <p>
-        <img src = "https://qu.ax/lRebp.jpg">
+        <img src = "https://w0.peakpx.com/wallpaper/465/73/HD-wallpaper-anime-rent-a-girlfriend-sumi-sakurasawa.jpg">
     </p>
 
 ---
